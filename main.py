@@ -8,6 +8,7 @@ from typing import List
 import random
 import string
 import hashlib
+print('hello world1')
 
 
 app = FastAPI()
